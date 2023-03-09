@@ -1,0 +1,49 @@
+body{
+    background-image:url('background.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+
+    }
+    div{
+    color:red;
+    border:5px solid red;
+    width:40%;
+    height:40%;
+    margin-left:30%;
+    margin-top:8%;
+    background-image:url('div.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    
+    }
+    h1{
+    text-align:center;
+    color:blue;
+    }
+#logo
+{
+    width:20%;
+    height: 30%;
+    border-radius: 50%;
+    margin-left: 25%;
+    margin-top:-10%;
+}
+#welcome{
+    margin-left: 42%;
+    font-weight:bold;
+    font-size: 300%;
+    margin-top:3%;
+    color: CF0A0A;
+}
+#mom{
+    width: 30%;
+    height: 55%;
+    margin-left: 10%;
+}
+#asha{
+    width: 30%;
+    height: 55%;
+    margin-left: 20%;
+}
